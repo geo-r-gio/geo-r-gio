@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geo-r-gio&show_icons=true&locale=en&layout=compact" alt="geo-r-gio" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geo-r-gio&show_icons=true&locale=en" alt="geo-r-gio" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geo-r-gio&" alt="geo-r-gio" /></p>
