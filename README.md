@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geo-r-gio&label=Profile%20views&color=0e75b6&style=flat" alt="geo-r-gio" /> </p>
 
-- 🌱 I’m currently learning **Java, Python and Javascript**
+- 🌱 I’m currently learning **React.js, React-Native and Next.js**
 
 - 📫 How to reach me **georgioPnassar@gmail.com**
 
