@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/geo-r-gio/geo-r-gio/blob/main/github.gif)
 <h1 align="center">Hi 👋, I'm Georgio Nassar</h1>
-<h3 align="center">A passionate frontend and java developer from Lebanon</h3>
+<h3 align="center">A passionate Frontend and Web developer from Lebanon</h3>
 <img align="right" alt="Coding" width"200" height="300" src="https://raw.githubusercontent.com/vinesmsuic/my-github-stats/master/111.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geo-r-gio&label=Profile%20views&color=0e75b6&style=flat" alt="geo-r-gio" /> </p>
